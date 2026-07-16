@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Getekende avatar van Marleen">
+  <defs>
+    <clipPath id="ronde-crop">
+      <circle cx="100" cy="100" r="100"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#ronde-crop)">
+    <!-- achtergrond -->
+    <rect x="0" y="0" width="200" height="200" fill="#f3d9b8"/>
+    <circle cx="100" cy="90" r="95" fill="#f6e4c8"/>
+
+    <!-- schouders / kleding -->
+    <path d="M30 200 C30 155 62 138 100 138 C138 138 170 155 170 200 Z" fill="#c96f4a"/>
+    <path d="M30 200 C30 160 55 142 78 139 L84 158 C84 158 92 168 100 168 C108 168 116 158 116 158 L122 139 C145 142 170 160 170 200 Z" fill="#a8572f"/>
+
+    <!-- nek -->
+    <rect x="86" y="118" width="28" height="30" rx="10" fill="#e8b183"/>
+
+    <!-- hoofd -->
+    <ellipse cx="100" cy="92" rx="46" ry="49" fill="#f0c199"/>
+
+    <!-- oren -->
+    <circle cx="53" cy="96" r="8" fill="#f0c199"/>
+    <circle cx="147" cy="96" r="8" fill="#f0c199"/>
+    <circle cx="53" cy="96" r="8" fill="none" stroke="#d99f6c" stroke-width="1.5"/>
+    <circle cx="147" cy="96" r="8" fill="none" stroke="#d99f6c" stroke-width="1.5"/>
+
+    <!-- oorbellen -->
+    <circle cx="53" cy="106" r="3.4" fill="#c96f4a"/>
+    <circle cx="147" cy="106" r="3.4" fill="#c96f4a"/>
+
+    <!-- haar achter -->
+    <path d="M52 70 C48 130 54 150 66 162 L70 128 C60 110 58 88 60 70 Z" fill="#6b4429"/>
+    <path d="M148 70 C152 130 146 150 134 162 L130 128 C140 110 142 88 140 70 Z" fill="#6b4429"/>
+
+    <!-- haar boven / kapsel -->
+    <path d="M100 34 C130 34 148 56 147 84 C147 92 144 98 140 100 C140 78 130 62 116 56 C118 66 112 72 104 70 C96 68 94 60 96 52 C82 54 70 66 66 82 C63 96 60 96 58 84 C52 54 72 34 100 34 Z" fill="#7a5232"/>
+    <path d="M64 84 C60 80 58 92 62 100 C66 106 70 100 68 92 Z" fill="#7a5232"/>
+    <path d="M136 84 C140 80 142 92 138 100 C134 106 130 100 132 92 Z" fill="#7a5232"/>
+
+    <!-- wenkbrauwen -->
+    <path d="M74 82 C79 78 87 78 92 81" fill="none" stroke="#5b3a22" stroke-width="3.4" stroke-linecap="round"/>
+    <path d="M108 81 C113 78 121 78 126 82" fill="none" stroke="#5b3a22" stroke-width="3.4" stroke-linecap="round"/>
+
+    <!-- ogen -->
+    <path d="M78 93 C81 90 88 90 91 93" fill="none" stroke="#2f2a24" stroke-width="3" stroke-linecap="round"/>
+    <path d="M109 93 C112 90 119 90 122 93" fill="none" stroke="#2f2a24" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="84.5" cy="97" r="3.6" fill="#2f2a24"/>
+    <circle cx="115.5" cy="97" r="3.6" fill="#2f2a24"/>
+
+    <!-- blush -->
+    <ellipse cx="72" cy="112" rx="9" ry="5.5" fill="#e2895f" opacity="0.45"/>
+    <ellipse cx="128" cy="112" rx="9" ry="5.5" fill="#e2895f" opacity="0.45"/>
+
+    <!-- neus -->
+    <path d="M99 98 C97 104 96 108 99 110 C101 111 103 110 103 108" fill="none" stroke="#d99f6c" stroke-width="2.6" stroke-linecap="round"/>
+
+    <!-- mond -->
+    <path d="M85 120 C93 128 107 128 115 120" fill="none" stroke="#a8572f" stroke-width="3.4" stroke-linecap="round"/>
+    <path d="M90 122 C96 126 104 126 110 122" fill="none" stroke="#8a3f22" stroke-width="1.6" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- bril -->
+    <circle cx="84.5" cy="96" r="14" fill="none" stroke="#6b4429" stroke-width="2.6"/>
+    <circle cx="115.5" cy="96" r="14" fill="none" stroke="#6b4429" stroke-width="2.6"/>
+    <path d="M98 94 C100 92 100 92 102 94" fill="none" stroke="#6b4429" stroke-width="2.6"/>
+    <path d="M70.5 92 L62 88" fill="none" stroke="#6b4429" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M129.5 92 L138 88" fill="none" stroke="#6b4429" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+
+  <!-- buitenrand -->
+  <circle cx="100" cy="100" r="98" fill="none" stroke="#e8ddce" stroke-width="4"/>
+</svg>
