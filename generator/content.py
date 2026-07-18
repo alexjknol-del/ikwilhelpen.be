@@ -257,6 +257,16 @@ PARTNERS = [
         "url": "https://www.fluvius.be",
         "omschrijving": "Vlaamse netbeheerder met praktische informatie en tips over energieverbruik en energiebesparing.",
     },
+    {
+        "naam": "PLM software",
+        "url": "https://9altitudes.com/be/plm-oplossingen",
+        "omschrijving": "9altitudes biedt PLM-software (product lifecycle management) voor bedrijven die hun productontwikkeling en -beheer efficiënter willen organiseren.",
+    },
+    {
+        "naam": "Kartonnen doos",
+        "url": "https://sabe-verpakkingen.nl/kartonnen-verpakkingen/kartonnen-dozen/",
+        "omschrijving": "Sabé Verpakkingen levert kartonnen dozen en verpakkingsoplossingen voor particulier en zakelijk gebruik.",
+    },
 ]
 
 FAQ_ITEMS = [
