@@ -267,6 +267,16 @@ PARTNERS = [
         "url": "https://sabe-verpakkingen.nl/kartonnen-verpakkingen/kartonnen-dozen/",
         "omschrijving": "Sabé Verpakkingen levert kartonnen dozen en verpakkingsoplossingen voor particulier en zakelijk gebruik.",
     },
+    {
+        "naam": "Stoffeerderij Struik",
+        "url": "https://stoffeerderij-struik.nl/",
+        "omschrijving": "Stoffeerderij Struik herstoffeert en repareert meubels, van klassieke stoelen tot moderne banken.",
+    },
+    {
+        "naam": "Huisopruiming na overlijden",
+        "url": "https://waltherwoningontruiming.nl/huis-leeghalen-na-overlijden/",
+        "omschrijving": "Walther Woningontruiming helpt bij het leeghalen van een woning na overlijden, met zorg voor nabestaanden.",
+    },
 ]
 
 FAQ_ITEMS = [
