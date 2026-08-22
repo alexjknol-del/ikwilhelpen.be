@@ -277,6 +277,31 @@ PARTNERS = [
         "url": "https://waltherwoningontruiming.nl/huis-leeghalen-na-overlijden/",
         "omschrijving": "Walther Woningontruiming helpt bij het leeghalen van een woning na overlijden, met zorg voor nabestaanden.",
     },
+    {
+        "naam": "asiel katten",
+        "url": "https://doa-dierenasiel.nl/dieren/dier-adopteren/kat-adopteren/",
+        "omschrijving": "DOA Dierenasiel biedt informatie over het adopteren van een kat, met een overzicht van kittens en volwassen katten die een nieuw thuis zoeken.",
+    },
+    {
+        "naam": "dierenasiel den Haag",
+        "url": "https://haagsdierencentrum.nl/dierenasiel-den-haag/",
+        "omschrijving": "Het Haags Dierencentrum vangt gevonden en afgestane dieren op in Den Haag en begeleidt de herplaatsing naar een nieuw baasje.",
+    },
+    {
+        "naam": "consultancy marketing",
+        "url": "https://www.leadtoday.nl/focusbranches/consultancy-marketing",
+        "omschrijving": "LeadToday is een Nederlands online marketing bureau met specifieke dienstverlening voor consultancybureaus op het gebied van leadgeneratie.",
+    },
+    {
+        "naam": "zeefdrukstickers",
+        "url": "https://danielson.nl/zeefdrukstickers/",
+        "omschrijving": "Danielson drukt zeefdrukstickers op maat, geschikt voor duurzame en professionele toepassingen.",
+    },
+    {
+        "naam": "cao detailhandel 2026",
+        "url": "https://www.werkindewinkel.nl/nieuws/nieuwe-cao-retail-non-food-4-keer-loonsverhoging-tot-eind-2027-wat-verandert-er-voor-jouo",
+        "omschrijving": "Werk in de Winkel informeert werkgevers en werknemers in de detailhandel over actuele cao-ontwikkelingen en arbeidsvoorwaarden.",
+    },
 ]
 
 FAQ_ITEMS = [
