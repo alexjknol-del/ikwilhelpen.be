@@ -302,6 +302,16 @@ PARTNERS = [
         "url": "https://www.werkindewinkel.nl/nieuws/nieuwe-cao-retail-non-food-4-keer-loonsverhoging-tot-eind-2027-wat-verandert-er-voor-jouo",
         "omschrijving": "Werk in de Winkel informeert werkgevers en werknemers in de detailhandel over actuele cao-ontwikkelingen en arbeidsvoorwaarden.",
     },
+    {
+        "naam": "Ferrailleur Mons",
+        "url": "https://www.recupmetaux.be/ferrailleur-mons/",
+        "omschrijving": "Recup Métaux koopt schroot en oude metalen op in de regio Bergen (Mons) en haalt ze op bij particulieren en bedrijven.",
+    },
+    {
+        "naam": "Ferrailleur La Louvière",
+        "url": "https://prixferraille.be/ferrailleur-la-louviere",
+        "omschrijving": "Prix Ferraille toont de dagprijzen voor koper, aluminium en ijzer en regelt ophaling van schroot in La Louvière en omgeving.",
+    },
 ]
 
 FAQ_ITEMS = [
