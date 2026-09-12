@@ -312,6 +312,101 @@ PARTNERS = [
         "url": "https://prixferraille.be/ferrailleur-la-louviere",
         "omschrijving": "Prix Ferraille toont de dagprijzen voor koper, aluminium en ijzer en regelt ophaling van schroot in La Louvière en omgeving.",
     },
+    {
+        "naam": "nederlandse cloud",
+        "url": "https://www.intermax.nl/oplossingen/cloudoplossingen/private-nederlandse-cloud/",
+        "omschrijving": "Intermax levert een private Nederlandse cloud, met data-opslag in Nederland en doorlopende monitoring van de omgeving.",
+    },
+    {
+        "naam": "tabouret",
+        "url": "https://www.medicalchairs.nl/nl/producten/ronde-tabouretten/",
+        "omschrijving": "Wesseling Medical Chairs levert ronde tabouretten voor medische en verzorgende werkplekken, in hoogte verstelbaar en gemaakt op langdurig gebruik.",
+    },
+    {
+        "naam": "rittenplanning software",
+        "url": "https://www.ptvlogistics.com/nl/producten/ptv-optiflow",
+        "omschrijving": "PTV Logistics maakt software voor ritoptimalisatie, waarmee vervoerders hun ritten en routes efficienter kunnen plannen.",
+    },
+    {
+        "naam": "nalaten goed doel",
+        "url": "https://www.dier.nu/nalaten-goed-doel-dier/",
+        "omschrijving": "Stichting DierenLot geeft uitleg over nalaten aan een goed doel voor dieren, met informatie over erfenis en legaat.",
+    },
+    {
+        "naam": "0 uren contact",
+        "url": "https://www.werkindewinkel.nl/0-uren-contract",
+        "omschrijving": "Werk in de Winkel legt uit welke rechten horen bij een nulurencontract in de detailhandel, met uitleg over uren en loon.",
+    },
+    {
+        "naam": "b2b marketingstrategie",
+        "url": "https://www.leadtoday.nl/expertises/b2b-marketing/b2b-marketingstrategie",
+        "omschrijving": "Lead Today werkt aan B2B-marketingstrategie voor zakelijke dienstverleners, gericht op leadgeneratie en groei.",
+    },
+    {
+        "naam": "grieks restaurant rotterdam",
+        "url": "https://markthal.nl/grieks-restaurant-rotterdam/",
+        "omschrijving": "De Markthal in Rotterdam geeft een overzicht van het Griekse aanbod in de hal, van souvlaki en gyros tot hartige taarten.",
+    },
+    {
+        "naam": "interim finance professional",
+        "url": "https://www.financefactor.nl/dienst/interim-management/",
+        "omschrijving": "FinanceFactor bemiddelt in interim financieel management en levert senior finance professionals voor tijdelijke opdrachten.",
+    },
+    {
+        "naam": "hond adopteren",
+        "url": "https://doa-dierenasiel.nl/dieren/dier-adopteren/hond-adopteren/",
+        "omschrijving": "DOA Dierenasiel geeft informatie over het adopteren van een hond uit het asiel, met een overzicht van de honden die een thuis zoeken.",
+    },
+    {
+        "naam": "dakkapel zoetermeer",
+        "url": "https://senerdakkapellen.nl/dakkapel-zoetermeer/",
+        "omschrijving": "Sener Dakkapellen plaatst dakkapellen op maat in Zoetermeer en omgeving, in kunststof of hout.",
+    },
+    {
+        "naam": "aluminium inleveren",
+        "url": "https://www.doornbos-metals.com/inleveren/aluminium-inleveren/",
+        "omschrijving": "Do-Metals neemt aluminium in en rekent af op basis van de actuele metaalprijzen.",
+    },
+    {
+        "naam": "marketingbureau non profit",
+        "url": "https://www.newroots.nl/",
+        "omschrijving": "New Roots is een marketingbureau voor goede doelen, gericht op online fondsenwerving en samenwerking met bedrijven.",
+    },
+    {
+        "naam": "Fruit op het werk",
+        "url": "https://www.fruitopjewerk.nl/fruit-op-het-werk/",
+        "omschrijving": "Fruit op je Werk levert fruitboxen op de werkplek, met wisselend en vers seizoensfruit.",
+    },
+    {
+        "naam": "disaster recovery it",
+        "url": "https://www.i3-groep.nl/dr-soevereiniteit/",
+        "omschrijving": "i3 groep voert een quickscan uit op herstelcapaciteit binnen de IT, met aandacht voor back-up, cloud en NIS2.",
+    },
+    {
+        "naam": "Snorkel uitrusting",
+        "url": "https://www.zwemshop.com/zwemuitrusting/duikbrillen-en-snorkels/c3051",
+        "omschrijving": "Zwemshop levert duikbrillen en snorkels voor recreatief zwemmen en snorkelen, in maten voor kinderen en volwassenen.",
+    },
+    {
+        "naam": "Snorkelen",
+        "url": "https://www.beco-shop.com/snorkelen/c10303",
+        "omschrijving": "Beco levert snorkeluitrusting, van snorkels en duikbrillen tot vinnen voor gebruik in het zwembad en open water.",
+    },
+    {
+        "naam": "Aqua Bootcamp",
+        "url": "https://www.zwembadmaterialen.nl/aqua-bootcamp/c18825",
+        "omschrijving": "Zwembadmaterialen.nl levert materiaal voor aqua bootcamp en aquafitness, bedoeld voor training in het water.",
+    },
+    {
+        "naam": "Veiligheid bij het vissen",
+        "url": "https://www.restube-nederland.nl/vissen/t85298",
+        "omschrijving": "Restube Nederland levert compacte opblaasbare drijfhulpmiddelen, onder meer voor gebruik tijdens het vissen.",
+    },
+    {
+        "naam": "kraan machinist inhuren",
+        "url": "https://www.mvemultiservice.nl/kraan-machinist",
+        "omschrijving": "MvE Multiservice verhuurt kraanmachinisten voor bouw-, grondverzet- en infraprojecten.",
+    },
 ]
 
 FAQ_ITEMS = [
