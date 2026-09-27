@@ -3,6 +3,37 @@
 
 ARTICLES = [
     {
+        "slug": "dakprobleem-regelen-voor-ouder-familielid",
+        "title": "Een dakprobleem regelen voor een ouder familielid",
+        "excerpt": "Een lek in het dak van een ouder familielid komt vaak onverwacht. Met een paar vaste stappen wordt het snel en zonder zorgen opgelost.",
+        "date_display": "27 september 2026",
+        "date_iso": "2026-09-27",
+        "icon": "🏠",
+        "meta_description": "Hoe een dakprobleem bij een ouder familielid wordt aangepakt: de eerste stappen bij een lek, een betrouwbare dakwerker vinden, afspraken maken en ter plaatse zijn.",
+        "body": """
+<p>Een lek in het dak van een ouder familielid komt vaak onverwacht. Met een paar vaste stappen wordt het snel en zonder zorgen opgelost.</p>
+
+<h2>Een telefoontje over een lek</h2>
+<p>Het begint vaak met een telefoontje: er staat water op de zolder, er is een vlek op het plafond, of na een storm liggen er pannen in de tuin. Voor een oudere persoon die alleen woont, is zo'n probleem meer dan een technische kwestie. Wie moet er gebeld worden, hoe weet men of een dakwerker te vertrouwen is, en wat als er iemand op het dak moet? Een zoon, dochter, buur of vrijwilliger die helpt, maakt dan het verschil.</p>
+
+<h2>De eerste stappen</h2>
+<p>Bij een acuut lek komt eerst de schade binnen beperken: een emmer onder het lek, meubels en elektrische toestellen weghalen, en nagaan of er water bij lampen of stopcontacten komt. Daarna foto's maken van de schade, binnen en buiten, voor er iets wordt opgeruimd. Die foto's zijn nodig voor de verzekering. En niemand klimt zelf op het dak, ook niet om snel even een pan terug te leggen.</p>
+
+<h2>Een betrouwbare dakwerker vinden</h2>
+<p>Na een storm bellen soms mensen aan die meteen willen herstellen en contant betaald willen worden. Oudere mensen zijn daar een geliefd doelwit. Een betrouwbare dakwerker komt eerst kijken, geeft een schriftelijke offerte en vraagt geen voorschot aan de deur. Het helpt om bij de eerste afspraak zelf aanwezig te zijn, of mee te luisteren aan de telefoon.</p>
+<p>Veel vragen die bij zo'n eerste contact opkomen, zoals hoe lang een inspectie duurt, wat er na een storm gebeurt en welke garantie er geldt, staan beantwoord bij de <a href="https://dendekkerdakwerken.be/veelgestelde-vragen/">veelgestelde vragen van Den Dekker Dakwerken</a>.</p>
+
+<h2>Afspraken op papier</h2>
+<p>Voor een oudere persoon is het prettig als alles op papier staat: wat er gedaan wordt, wanneer de werken plaatsvinden, hoe lang ze duren en wat er gebeurt bij regen. Een dakwerker die foto's of video van het dak maakt, geeft het familielid dat helpt de kans om mee te kijken zonder zelf ter plaatse te zijn. Dat is handig wanneer de helper verder weg woont.</p>
+
+<h2>Aanwezig zijn tijdens de werken</h2>
+<p>Dakwerken brengen lawaai, ladders en soms een steiger mee. Het is geruststellend als er de eerste dag iemand bij is die de ploeg ontvangt en afspraken maakt over toegang tot de zolder. Wie dat niet kan, vraagt een buur om een oogje in het zeil te houden.</p>
+
+<h2>Onderhoud voorkomt noodgevallen</h2>
+<p>Het beste dakprobleem is het probleem dat niet ontstaat. Een jaarlijkse controle en het leegmaken van de goten voorkomen veel noodgevallen. Wie een ouder familielid helpt, kan zo'n controle vast in de agenda zetten. In Malle en omgeving werkt Den Dekker met een gratis dakinspectie, waarbij het verslag met foto's ook naar de helper kan worden gestuurd. Meer op <a href="https://dendekkerdakwerken.be/dakwerken-malle/">dendekkerdakwerken.be</a>.</p>
+""",
+    },
+    {
         "slug": "kleine-klussen-zelf-doen-waar-op-letten",
         "title": "Kleine klussen zelf doen: waar moet je op letten voordat je begint?",
         "excerpt": "Een plankje ophangen, een stopcontact vervangen, een deur bijschaven: kleine klussen lijken eenvoudig, tot het misgaat. Deze voorbereiding bespaart tijd, frustratie en soms een dokterbezoek.",
