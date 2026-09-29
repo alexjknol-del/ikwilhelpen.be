@@ -438,6 +438,31 @@ PARTNERS = [
         "url": "https://www.mvemultiservice.nl/kraan-machinist",
         "omschrijving": "MvE Multiservice verhuurt kraanmachinisten voor bouw-, grondverzet- en infraprojecten.",
     },
+    {
+        "naam": "Pure castorolie",
+        "url": "https://safwahnatural.com/nl/producten/olien/castorolie",
+        "omschrijving": "Safwah Natural verkoopt natuurlijke oliën, waaronder koudgeperste castorolie voor haar, huid en wimpers.",
+    },
+    {
+        "naam": "Korte zzp opdrachten",
+        "url": "https://striive.com/nl/zzp/opdrachten",
+        "omschrijving": "Striive brengt zzp'ers en organisaties samen, met een actueel overzicht van opdrachten, ook voor korte duur.",
+    },
+    {
+        "naam": "Cream Retinol",
+        "url": "https://nl.revitaltrax.com/products/retinol-cream",
+        "omschrijving": "Revitaltrax maakt huidverzorging, waaronder een retinolcrème voor de dagelijkse verzorging van de huid.",
+    },
+    {
+        "naam": "Wat kost kraamzorg",
+        "url": "https://www.lunavi.nl/kraamtijd/wat-kost-kraamzorg",
+        "omschrijving": "Lunavi zet uiteen hoe de kosten van kraamzorg zijn opgebouwd en wat de zorgverzekering daarvan vergoedt.",
+    },
+    {
+        "naam": "Verhuizers Utrecht",
+        "url": "https://verhuisbedrijfsnellejongens.nl/verhuisbedrijf-utrecht/",
+        "omschrijving": "Verhuisbedrijf Snelle Jongens verzorgt verhuizingen in en rond Utrecht, voor particulieren en bedrijven.",
+    },
 ]
 
 FAQ_ITEMS = [
