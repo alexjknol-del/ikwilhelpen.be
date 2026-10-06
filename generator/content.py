@@ -3,6 +3,53 @@
 
 ARTICLES = [
     {
+        "slug": "auto-kopen-in-belgie-en-naar-nederland-halen",
+        "title": "Een auto kopen in België en naar Nederland halen",
+        "excerpt": "Een auto in België kopen kan voordelig zijn, maar het overbrengen naar Nederland gaat anders dan veel mensen denken. Dit zijn de stappen.",
+        "date_display": "23 juli 2026",
+        "date_iso": "2026-07-23",
+        "icon": "🚗",
+        "meta_description": "Een auto kopen in België en naar Nederland halen: de nummerplaat, Car-Pass en keuring, vervoer over de grens en de stappen bij de RDW en de Belastingdienst.",
+        "body": """
+<p>Wie in de grensstreek woont of gewoon breed zoekt, komt al snel een geschikte auto tegen bij een Belgische verkoper. De prijzen zijn soms gunstig en de taal is geen drempel. Toch zijn er een paar zaken die anders werken dan bij een aankoop in Nederland.</p>
+<h2>De nummerplaat gaat niet mee</h2>
+<p>In België hoort de nummerplaat bij de eigenaar en niet bij de auto. De verkoper haalt de plaat er bij de verkoop af. Gewoon wegrijden kan dus niet. De auto gaat op een aanhanger, met een transportbedrijf of op een tijdelijke transitplaat met een verzekering naar Nederland.</p>
+<h2>Car-Pass en keuring</h2>
+<p>Bij de verkoop van een gebruikte auto in België hoort een Car-Pass met de geregistreerde kilometerstanden. Ook moet een tweedehands auto voor de verkoop gekeurd zijn. Vraag beide stukken op en bewaar ze bij de papieren. Ze geven houvast over de geschiedenis van de auto.</p>
+<h2>De stappen in Nederland</h2>
+<ul>
+<li>Een keuring bij de RDW, waarbij de auto en de papieren worden gecontroleerd.</li>
+<li>De aangifte van de BPM bij de Belastingdienst.</li>
+<li>Het Nederlandse kenteken en de tenaamstelling.</li>
+</ul>
+<p>Pas daarna mag de auto op Nederlands kenteken de weg op. Zorg dat de verzekering vanaf dat moment geregeld is.</p>
+<h2>Hulp bij de overstap</h2>
+<p>Wie het liever niet zelf regelt, kan de hele overstap laten verzorgen. Op <a href="https://easyimport.nl/auto-importeren-belgie/">https://easyimport.nl/auto-importeren-belgie/</a> staat stap voor stap hoe een import uit België verloopt. <a href="https://easyimport.nl/">Easy Import</a> haalt de auto ook op, zodat het probleem van de ontbrekende nummerplaat er niet is.</p>
+""",
+    },
+    {
+        "slug": "kunstbloemen-schoonhouden-zo-blijven-ze-mooi",
+        "title": "Kunstbloemen schoonhouden: zo blijven ze mooi",
+        "excerpt": "Kunstbloemen hebben geen water nodig, maar wel af en toe wat aandacht. Met een paar eenvoudige gewoontes blijven ze jaren fris.",
+        "date_display": "2 september 2026",
+        "date_iso": "2026-09-02",
+        "icon": "💐",
+        "meta_description": "Kunstbloemen en zijden boeketten schoonhouden: stof verwijderen, vlekken aanpakken, verkleuren voorkomen en opbergen tussen de seizoenen.",
+        "body": """
+<p>Een kunstboeket of zijden boeket staat vaak maanden op dezelfde plek. Dat is precies het voordeel, maar het betekent ook dat er stof op valt. Met een paar eenvoudige gewoontes blijven de bloemen jaren fris en kleurrijk.</p>
+<h2>Stof verwijderen</h2>
+<p>Een föhn op de koude stand blaast het meeste stof weg. Houd de föhn op een afstand en beweeg rustig over het boeket. Een zachte kwast of make-upkwast werkt goed voor de plekjes tussen de bloemblaadjes. Doe dit eens per maand, dan hoopt het stof zich niet op.</p>
+<h2>Vlekken en vettige aanslag</h2>
+<p>In de keuken kan een boeket wat vet opnemen. Een vochtige, zachte doek met een druppel mild afwasmiddel helpt dan. Dep voorzichtig en laat het boeket daarna aan de lucht drogen. Zet zijden bloemen nooit in een bak water, want de lijm en het kunststof kunnen daar niet tegen.</p>
+<h2>Verkleuren voorkomen</h2>
+<p>Volle zon is de grootste vijand van kunstbloemen. Na maanden in de vensterbank kunnen de kleuren vervagen. Een plek iets verder van het raam houdt de kleuren het langst mooi.</p>
+<h2>Opbergen tussen de seizoenen</h2>
+<p>Wie per seizoen wisselt, bergt het boeket op in een doos met wat vloeipapier ertussen. Zet de doos op een droge plek, uit de zon. Zo staat het boeket volgend jaar weer als nieuw op tafel.</p>
+<h2>Een nieuw boeket kiezen</h2>
+<p>Op zoek naar een boeket dat lang meegaat? Bij <a href="https://bloomzy.nl/">Bloomzy</a> staan de kunstboeketten bij elkaar op <a href="https://bloomzy.nl/collectie/kunstboeketten">https://bloomzy.nl/collectie/kunstboeketten</a>, in verschillende maten en kleuren.</p>
+""",
+    },
+    {
         "slug": 'glaswerk-in-huis-kiezen-en-veilig-gebruiken',
         "title": 'Glaswerk in huis: kiezen, gebruiken en veilig bewaren',
         "excerpt": 'Welk glas voor welke drank, waarom stevig glas handig is in een druk huishouden en hoe je glazen opbergt zodat er minder breekt.',
