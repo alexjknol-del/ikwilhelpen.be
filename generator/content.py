@@ -3,6 +3,27 @@
 
 ARTICLES = [
     {
+        "slug": 'glaswerk-in-huis-kiezen-en-veilig-gebruiken',
+        "title": 'Glaswerk in huis: kiezen, gebruiken en veilig bewaren',
+        "excerpt": 'Welk glas voor welke drank, waarom stevig glas handig is in een druk huishouden en hoe je glazen opbergt zodat er minder breekt.',
+        "date_display": "12 september 2026",
+        "date_iso": "2026-09-12",
+        "icon": "🥂",
+        "meta_description": 'Welk glas voor welke drank, waarom dikker glas in een gezin met kinderen handiger is en hoe je glazen zo opbergt dat er minder breekt.',
+        "body": """
+<p>Glazen gebruiken we elke dag, van het waterglas bij het ontbijt tot de wijnglazen bij een etentje. Toch wordt er weinig nagedacht over welk glas waarvoor dient en hoe je het veilig gebruikt en opbergt. Met een paar keuzes blijft de kast overzichtelijk en breekt er minder.</p>
+<h2>Welk glas voor welke drank</h2>
+<p>Voor dagelijks gebruik volstaan water-, sap- en longdrinkglazen. Wijnglazen hebben een bolle kelk zodat de geur zich kan ontwikkelen, champagneglazen zijn smal en hoog om de bubbels langer vast te houden. Wie niet te veel verschillende soorten wil, komt met een set waterglazen, een set universele wijnglazen en een set longdrinkglazen al ver.</p>
+<h2>Dikker glas in een druk huishouden</h2>
+<p>In een gezin met jonge kinderen loont het om voor dagelijks gebruik stevigere glazen te kiezen. Dikker glas en een brede, lage voet maken een glas minder kwetsbaar als het omvalt. Geribbelde glazen liggen bovendien beter in de hand, wat prettig is voor kleine handen en natte vingers. Breekbare kristallen glazen bewaar je dan voor gelegenheden.</p>
+<h2>Opbergen en afwassen</h2>
+<p>Zet glazen rechtop in de kast in plaats van op de rand, waar ze het kwetsbaarst zijn. Stapel ze niet in elkaar, want dan kunnen ze vast komen te zitten en barsten bij het loshalen. Bewaar glaswerk op ooghoogte of lager, zodat je niet op een trapje hoeft om een glas te pakken. In de vaatwasser kunnen de meeste drinkglazen gewoon mee, maar zet ze zo dat ze elkaar niet raken.</p>
+<h2>Als er toch een glas breekt</h2>
+<p>Haal kinderen en huisdieren weg, veeg de grote scherven op met stoffer en blik en pak de kleine splinters op met een vochtig stuk keukenpapier of een plakband. Wikkel de scherven in krantenpapier voordat ze in de vuilnisbak gaan, zodat niemand zich bij het legen snijdt.</p>
+<p>Is de collectie toe aan aanvulling, dan helpt het om per gebruik te kiezen. <a href="https://salinshome.be/glazen/">Glazen kopen</a> voor elke gelegenheid kan bij Salins Home in Heusden-Zolder, van stevige drinkglazen en geribbelde glazen voor dagelijks gebruik tot wijn- en champagneglazen voor wanneer er gasten zijn.</p>
+""",
+    },
+    {
         "slug": "dakprobleem-regelen-voor-ouder-familielid",
         "title": "Een dakprobleem regelen voor een ouder familielid",
         "excerpt": "Een lek in het dak van een ouder familielid komt vaak onverwacht. Met een paar vaste stappen wordt het snel en zonder zorgen opgelost.",
