@@ -531,6 +531,11 @@ PARTNERS = [
         "url": "https://verhuisbedrijfsnellejongens.nl/verhuisbedrijf-utrecht/",
         "omschrijving": "Verhuisbedrijf Snelle Jongens verzorgt verhuizingen in en rond Utrecht, voor particulieren en bedrijven.",
     },
+    {
+        "naam": "Keukenwerkblad laminaat",
+        "url": "https://dekeukenbouwer.be/laminaat-keukenblad/",
+        "omschrijving": "De Keukenbouwer ontwerpt en bouwt keukens op maat, met showrooms in België.",
+    },
 ]
 
 FAQ_ITEMS = [
